@@ -1,0 +1,11 @@
+{
+  "name": "osx-get-profile-picture",
+  "version": "0.0.0",
+  "description": "Get the current user's profile picture on OSX",
+  "repository": "juliangruber/osx-get-profile-picture",
+  "license": "MIT",
+  "dependencies": {
+    "comandante": "0.0.1",
+    "pump": "^1.0.1"
+  }
+}
